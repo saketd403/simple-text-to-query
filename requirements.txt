@@ -1,0 +1,5 @@
+openai
+sqlite3
+huggingface_hub
+torch
+transformers
